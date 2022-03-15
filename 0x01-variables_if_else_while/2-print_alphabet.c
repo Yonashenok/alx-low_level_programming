@@ -1,8 +1,3 @@
-/*
- * File: 2-print_alphabet.c
- * Auth: Y.h
- */
-
 #include <stdio.h>
 
 /**
